@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/main.cpp" "/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug/CMakeFiles/IA_AG_PLE1_2020.dir/main.cpp.o"
+  "/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/main.cpp" "/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug/CMakeFiles/IA_AG_PLE1_2020.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

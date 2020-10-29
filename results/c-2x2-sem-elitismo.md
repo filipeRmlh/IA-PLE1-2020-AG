@@ -5,7 +5,7 @@ Comando:
 ```
 Resultado:
 ```
-*** Starting Algorithm ****
+**** Starting Algorithm ****
 **********Config**********
 Number of experiments: 10
 Number of generations: 100
@@ -22,151 +22,151 @@ With debug enabled: No
 
 *** Starting experiment #1 ***
 ----- Best Start ------
-Gn: 4
+Gn: 16
 ----------------------
 
 ----- Best End ------
-Gn: 3
+Gn: 19
 ---------------------
 
 ---- Mean ----
-Start: 1.14
-End: 1.19
+Start: 8.92
+End: 8.34
 --------------
 *** End of experiment #1 ***
 
 *** Starting experiment #2 ***
 ----- Best Start ------
-Gn: 2
+Gn: 15
 ----------------------
 
 ----- Best End ------
-Gn: 3
+Gn: 16
 ---------------------
 
 ---- Mean ----
-Start: 1.1
-End: 1.12
+Start: 8.3
+End: 8.34
 --------------
 *** End of experiment #2 ***
 
 *** Starting experiment #3 ***
 ----- Best Start ------
-Gn: 2
+Gn: 15
 ----------------------
 
 ----- Best End ------
-Gn: 2
+Gn: 17
 ---------------------
 
 ---- Mean ----
-Start: 1.11
-End: 1.09
+Start: 8.78
+End: 8.51
 --------------
 *** End of experiment #3 ***
 
 *** Starting experiment #4 ***
 ----- Best Start ------
-Gn: 2
+Gn: 17
 ----------------------
 
 ----- Best End ------
-Gn: 2
+Gn: 14
 ---------------------
 
 ---- Mean ----
-Start: 1.17
-End: 1.08
+Start: 8.56
+End: 8.15
 --------------
 *** End of experiment #4 ***
 
 *** Starting experiment #5 ***
 ----- Best Start ------
-Gn: 3
+Gn: 16
 ----------------------
 
 ----- Best End ------
-Gn: 3
+Gn: 17
 ---------------------
 
 ---- Mean ----
-Start: 1.11
-End: 1.16
+Start: 8.4
+End: 8.29
 --------------
 *** End of experiment #5 ***
 
 *** Starting experiment #6 ***
 ----- Best Start ------
-Gn: 2
+Gn: 14
 ----------------------
 
 ----- Best End ------
-Gn: 5
+Gn: 15
 ---------------------
 
 ---- Mean ----
-Start: 1.1
-End: 1.14
+Start: 8.53
+End: 8.52
 --------------
 *** End of experiment #6 ***
 
 *** Starting experiment #7 ***
 ----- Best Start ------
-Gn: 2
+Gn: 16
 ----------------------
 
 ----- Best End ------
-Gn: 2
+Gn: 13
 ---------------------
 
 ---- Mean ----
-Start: 1.11
-End: 1.1
+Start: 8.43
+End: 7.89
 --------------
 *** End of experiment #7 ***
 
 *** Starting experiment #8 ***
 ----- Best Start ------
-Gn: 3
+Gn: 15
 ----------------------
 
 ----- Best End ------
-Gn: 2
+Gn: 17
 ---------------------
 
 ---- Mean ----
-Start: 1.16
-End: 1.09
+Start: 8.52
+End: 8.73
 --------------
 *** End of experiment #8 ***
 
 *** Starting experiment #9 ***
 ----- Best Start ------
-Gn: 3
+Gn: 15
 ----------------------
 
 ----- Best End ------
-Gn: 3
+Gn: 16
 ---------------------
 
 ---- Mean ----
-Start: 1.14
-End: 1.11
+Start: 8.52
+End: 8.58
 --------------
 *** End of experiment #9 ***
 
 *** Starting experiment #10 ***
 ----- Best Start ------
-Gn: 3
+Gn: 18
 ----------------------
 
 ----- Best End ------
-Gn: 4
+Gn: 13
 ---------------------
 
 ---- Mean ----
-Start: 1.12
-End: 1.16
+Start: 9.07
+End: 8.34
 --------------
 *** End of experiment #10 ***
 ```

@@ -50,7 +50,7 @@ public:
     void print();
     void setFixedValues(const map<Pos, int>& fixed);
     void randomFill ();
-    bool cellOk (Pos cellIndex);
+    int cellOk (Pos cellIndex);
     Mat<int> getBlock(int i, int j);
     int operator[](int n);
     int operator()(int i, int j);
@@ -147,15 +147,15 @@ Mat<int> Sudoku::getBlock(int i, int j) {
 }
 
 //Check if the cell at the given index is unique in the column, row, and block.
-bool Sudoku::cellOk(Pos cellIndex) {
+int Sudoku::cellOk(Pos cellIndex) {
     const Pos blockIndex = getBlockPos(cellIndex);
     const Mat<int> block = getBlock(blockIndex.first, blockIndex.second);
     const Row<int> row = content.row(cellIndex.first);
     const Col<int> col = content.col(cellIndex.second);
-    int nUniqueR = Mat<int>(unique(row)).n_elem;
-    int nUniqueC = Mat<int>(unique(col)).n_elem;
-    int nUniqueB = Mat<int>(unique(block)).n_elem;
-    return nUniqueB == matrixSide && nUniqueC == matrixSide && nUniqueR == matrixSide ;
+    uvec equalsR = find(row == content(cellIndex.first,cellIndex.second));
+    uvec equalsC = find(col == content(cellIndex.first,cellIndex.second));
+    uvec equalsB = find(block == content(cellIndex.first,cellIndex.second));
+    return (equalsR.size() == 1 ? 1 : 0 ) + (equalsC.size() == 1 ? 1 : 0) + (equalsB.size() == 1 ? 1 : 0);
 }
 
 //Return the sudoku's matrix content.

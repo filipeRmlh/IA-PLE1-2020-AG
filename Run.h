@@ -82,7 +82,7 @@ int Run (int argc, char*argv[]) {
     cout << "Number of experiments: " << batches << endl;
     cout << "Number of generations: " << nGenerations << endl;
     cout << "Population size: " << popSize << endl;
-    cout << "Sudoku Size: " << (blockSize.first*blockSize.second) << "x" << (blockSize.first*blockSize.second) << endl;
+    cout << "Sudoku Size: " << (blockSize.first * blockSize.second) << "x" << (blockSize.first * blockSize.second) << endl;
     cout << "Block Size: " << blockSize.first << "x" << blockSize.second << endl;
     cout << "Number of crossover cuts: " << ncuts << endl;
     cout << "Number of mutation positions: " << nmuts << endl;

@@ -1,4 +1,4 @@
-# Install script for directory: /home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020
+# Install script for directory: /home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

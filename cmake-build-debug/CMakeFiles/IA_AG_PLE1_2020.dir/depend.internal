@@ -586,10 +586,10 @@ CMakeFiles/IA_AG_PLE1_2020.dir/main.cpp.o
  ../armadillo-10.1.0/include/armadillo_bits/xtrans_mat_meat.hpp
  ../armadillo-10.1.0/include/armadillo_bits/xvec_htrans_bones.hpp
  ../armadillo-10.1.0/include/armadillo_bits/xvec_htrans_meat.hpp
- /home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/AG.h
- /home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/FixedValuesCollection.h
- /home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/Run.h
- /home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/Sudoku.h
- /home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/Tester.h
- /home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/Utils.h
- /home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/main.cpp
+ /home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/AG.h
+ /home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/FixedValuesCollection.h
+ /home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/Run.h
+ /home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/Sudoku.h
+ /home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/Tester.h
+ /home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/Utils.h
+ /home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/main.cpp

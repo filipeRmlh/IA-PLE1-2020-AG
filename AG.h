@@ -17,13 +17,7 @@ int Fn(Sudoku sudoku) {
     const auto mutablePos = sudoku.getMutablePos();
     int numberOfMutableCellsOk = 0;
     for(const auto pos : mutablePos) {
-        if(sudoku.cellOk(pos)){
-            numberOfMutableCellsOk ++;
-        }
-    }
-    if (numberOfMutableCellsOk>30){
-        cout << numberOfMutableCellsOk << endl;
-        cout << endl;
+        numberOfMutableCellsOk += sudoku.cellOk(pos);
     }
     return numberOfMutableCellsOk;
 }
@@ -69,7 +63,7 @@ vector<Sudoku> getIntermediateP(vector<Sudoku> pop, vec roulette, bool elitism =
     for(int i = 0; i < numElm; i++) {
         double n = getRandomReal(0,1);
         int pos = (int) (upper_bound(roulette.begin(), roulette.end(), n) - roulette.begin());
-        int selectedIndex = (int) (scale*pos);
+        int selectedIndex = (int) (scale * (float) pos);
         intermediatePop.push_back(pop[selectedIndex]);
     }
     return intermediatePop;

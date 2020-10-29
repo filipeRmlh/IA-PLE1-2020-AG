@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/armadillo-10.1.0/include
+CXX_INCLUDES = -I/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/armadillo-10.1.0/include
 
 CXX_FLAGS = -g   -fopenmp -O2 -I -lopenblas -std=gnu++14
 

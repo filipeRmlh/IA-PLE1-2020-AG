@@ -8,33 +8,33 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug"/>
+				<Option working_dir="/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug"/>
+				<Option working_dir="/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="IA_AG_PLE1_2020">
-				<Option output="/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug/IA_AG_PLE1_2020" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug"/>
+				<Option output="/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug/IA_AG_PLE1_2020" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/armadillo-10.1.0/include"/>
+					<Add directory="/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/armadillo-10.1.0/include"/>
 					<Add directory="/usr/include/c++/8"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
 					<Add directory="/usr/include/c++/8/backward"/>
@@ -45,20 +45,20 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 IA_AG_PLE1_2020"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug/Makefile&quot;  VERBOSE=1 IA_AG_PLE1_2020"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="IA_AG_PLE1_2020/fast">
-				<Option output="/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug/IA_AG_PLE1_2020" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug"/>
+				<Option output="/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug/IA_AG_PLE1_2020" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/armadillo-10.1.0/include"/>
+					<Add directory="/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/armadillo-10.1.0/include"/>
 					<Add directory="/usr/include/c++/8"/>
 					<Add directory="/usr/include/x86_64-linux-gnu/c++/8"/>
 					<Add directory="/usr/include/c++/8/backward"/>
@@ -69,27 +69,27 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 IA_AG_PLE1_2020/fast"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug/Makefile&quot;  VERBOSE=1 IA_AG_PLE1_2020/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug"/>
+				<Option working_dir="/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/main.cpp">
+		<Unit filename="/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/main.cpp">
 			<Option target="IA_AG_PLE1_2020"/>
 		</Unit>
-		<Unit filename="/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/CMakeLists.txt">
+		<Unit filename="/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

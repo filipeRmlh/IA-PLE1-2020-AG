@@ -2404,7 +2404,7 @@ hdf5.h
 
 ../armadillo-10.1.0/include/armadillo_bits/xvec_htrans_meat.hpp
 
-/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/AG.h
+/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/AG.h
 armadillo
 -
 utility
@@ -2412,23 +2412,23 @@ utility
 memory
 -
 Sudoku.h
-/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/Sudoku.h
+/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/Sudoku.h
 FixedValuesCollection.h
-/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/FixedValuesCollection.h
+/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/FixedValuesCollection.h
 
-/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/FixedValuesCollection.h
+/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/FixedValuesCollection.h
 Sudoku.h
-/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/Sudoku.h
+/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/Sudoku.h
 
-/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/Run.h
+/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/Run.h
 armadillo
 -
 Sudoku.h
-/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/Sudoku.h
+/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/Sudoku.h
 AG.h
-/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/AG.h
+/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/AG.h
 
-/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/Sudoku.h
+/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/Sudoku.h
 armadillo
 -
 list
@@ -2440,27 +2440,27 @@ random
 utility
 -
 Utils.h
-/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/Utils.h
+/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/Utils.h
 
-/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/Tester.h
+/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/Tester.h
 armadillo
 -
 Sudoku.h
-/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/Sudoku.h
+/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/Sudoku.h
 FixedValuesCollection.h
-/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/FixedValuesCollection.h
+/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/FixedValuesCollection.h
 AG.h
-/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/AG.h
+/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/AG.h
 
-/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/Utils.h
+/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/Utils.h
 random
 -
 
-/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/main.cpp
+/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/main.cpp
 Run.h
-/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/Run.h
+/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/Run.h
 Tester.h
-/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/Tester.h
+/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/Tester.h
 Utils.h
-/home/filipe/Projetos/UFRJ/IA-AG-PLE1-2020/Utils.h
+/home/filipe/Projetos/UFRJ/IA-PLE1-2020-AG/Utils.h
 
